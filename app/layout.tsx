@@ -1,3 +1,5 @@
+export const runtime = 'edge';
+
 export const metadata = {
   title: 'Greeting Card Chatbot',
   description: 'AI-generated greeting cards',
